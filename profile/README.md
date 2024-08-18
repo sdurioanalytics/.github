@@ -1,4 +1,4 @@
-# Research and Innovation Fundraising Digital Tools (RIFDT) 📊
+# Research and Innovation Fundraising Digital Tools (RIFDT)
 
 [![Follow R&I Fundraising Digital Tools on LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/groups/12721532/ "Follow R&I Fundraising Digital Tools on LinkedIn")
 [![Follow R&I Fundraising Digital Tools on Mastodon](https://img.shields.io/mastodon/follow/110944426785095712)](https://mastodon.social/@sdurioanalytics "Follow R&I Fundraising Digital Tools on Mastodon")
