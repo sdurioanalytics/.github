@@ -10,9 +10,9 @@
 
 The Research and Innovation Fundraising Digital Tools are a suite of Web Apps designed for assisting Researchers, Research Support Advisors and Research Managers and Administrators (RMA) throughout a grant proposal submission from finding a pertinent financing opportunity to writing an impactful project 🔬
 
-University of Southern Denmark (SDU)
+A free lite-version is available at <https://sdurioanalytics-lite.sdu.dk> 🔗
 
-Research & Innovation Organization (RIO) Web Apps
+University of Southern Denmark ([SDU][sdu])
 
 <!--
 
@@ -26,3 +26,7 @@ Research & Innovation Organization (RIO) Web Apps
 
 [![Follow SDU RIO Analytics on Twitter](https://img.shields.io/twitter/follow/sdurioanalytics.svg?style=social&logo=twitter)](https://twitter.com/sdurioanalytics)
 -->
+
+<!-- links -->
+
+[sdu]: https://www.sdu.dk/en
