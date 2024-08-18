@@ -7,7 +7,7 @@ The Research and Innovation Fundraising Digital Tools are a suite of Web Apps de
 
 A free lite-version is available at <https://sdurioanalytics-lite.sdu.dk> 🔗
 
-University of Southern Denmark ([SDU][sdu])
+University of Southern Denmark ([SDU][sdu]) 🇩🇰
 
 <!--
 
